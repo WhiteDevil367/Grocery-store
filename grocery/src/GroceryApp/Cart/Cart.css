@@ -1,0 +1,37 @@
+.cart-card{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(164, 234, 234);
+    border-radius: 10px;
+    margin: 0%;
+}
+.product-image{
+    height: 150px;  
+    width: 350px;
+    margin: 0px;
+    border-radius: 10px;
+}
+.product-details{
+    align-items: center;
+    text-align: center;
+}
+.product-details> h1{
+    text-align: left;
+    font-size: 15px;
+    font-family:Verdana, Tahoma, sans-serif;
+}
+.product-details>h5{
+    text-align: left;
+    margin-bottom: 10px;
+    font-family:Verdana, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 9px;
+
+}
+.price-rating{
+    display: flex;
+    justify-content:space-around;
+    padding: auto;
+    margin: 12px;
+    
+}
